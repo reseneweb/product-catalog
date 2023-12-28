@@ -1,4 +1,4 @@
-# React TypeScript Starter Pack
+# Product Catalog
 
 Product Catalog is an online retail application mimicking an electronics store with a focus on mobile phones, tablets, and accessories. This project is constructed using React, TypeScript, SCSS for dynamic client-side rendering, with a product catalog fetched from an API, mirroring real-world commercial platforms.
 
