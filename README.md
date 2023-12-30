@@ -65,3 +65,5 @@ This React Product Catalog exemplifies the fusion of modern web technologies and
 
 Project: https://reseneweb.github.io/product-catalog/
 
+Layout: https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2
+
